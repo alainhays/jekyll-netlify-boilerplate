@@ -43,6 +43,8 @@ sass:
 compress_html:
   clippings: all
 
+locale: 'fr'
+
 # set some common post defaults
 defaults:
   -
